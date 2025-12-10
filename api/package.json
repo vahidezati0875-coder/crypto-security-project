@@ -1,0 +1,14 @@
+{
+  "name": "fake-price-api",
+  "version": "1.0.0",
+  "description": "University project - Fake price API for cryptocurrency scam demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Student Name",
+  "license": "MIT"
+}
